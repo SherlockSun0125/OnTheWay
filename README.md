@@ -1,2 +1,2 @@
-# OnTheWay
-Just Do It!
+# Please Read Me First!
+Just Read Me!
